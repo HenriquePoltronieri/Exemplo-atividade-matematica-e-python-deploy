@@ -75,7 +75,7 @@ def carregar_dados(caminho_arquivo):
 
 
 # Caminho do arquivo Excel
-caminho_arquivo = r"H:\python\3etapa\EXEMPLO\Tabela 1.1.2.xls"
+caminho_arquivo = r"Tabela 1.1.2.xls"
 
 
 try:
